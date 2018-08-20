@@ -14,3 +14,7 @@ s
 #two {
     background: url("images/overlay.png"), url("../../images/two.jpg");
 }
+
+#header {
+    background: rgba(233,233,233, 0.95);
+}
