@@ -1,3 +1,16 @@
 ul.bulletIndent {
     padding-left: 15px;
+    list-style-type: disc !important;
+}
+
+#intro { 
+    background: url("images/overlay.png"), url("../../images/_intro.jpg");
+}
+
+#one {
+    background: url("images/overlay.png"), url("../../images/_one.jpg");
+}
+
+#two {
+    background: url("images/overlay.png"), url("../../images/_two.jpg");
 }
