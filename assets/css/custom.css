@@ -4,13 +4,13 @@ ul.bulletIndent {
 }
 
 #intro { 
-    background: url("images/overlay.png"), url("../../images/_intro.jpg");
+    background: url("images/overlay.png"), url("../../images/_intro.JPG");
 }
 
 #one {
     background: url("images/overlay.png"), url("../../images/_one.jpg");
 }
-
+s
 #two {
     background: url("images/overlay.png"), url("../../images/_two.jpg");
 }
