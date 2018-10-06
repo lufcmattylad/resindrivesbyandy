@@ -15,7 +15,9 @@ ul.bulletIndent {
     background: url("images/overlay.png"), url("../../images/two.jpg");
 }
  
- 
+h3 {
+    font-size: 40px;
+}
 
 #header {
     background: rgba(233,233,233, 0.95);
